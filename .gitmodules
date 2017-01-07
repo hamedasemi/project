@@ -1,3 +1,6 @@
 [submodule "gulp"]
 	path = gulp
 	url = git@github.com:hamedasemi/gulp.git
+[submodule "services"]
+	path = services
+	url = git@github.com:hamedasemi/services.git
